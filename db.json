@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "price": 1599999,
+      "des": "Phòng được thiết kế theo phong cách hiện đại, phòng rộng rãi, thoáng mát, đầy đủ tiện nghi,phù hợp cho hộ gia đình 3-4 người33213",
+      "name": "MacBook Air 13 2020 M1 560GBaaa1",
+      "id": 1
+    },
+    {
+      "price": 1599999,
+      "des": "Phòng được thiết kế theo phong cách hiện đại, phòng rộng rãi, thoáng mát, đầy đủ tiện nghi,phù hợp cho hộ gia đình 3-4 người",
+      "name": "MacBook Air 13 2020 M1 560GBaaa1",
+      "id": 1
+    },
+    {
+      "price": 1599999,
+      "des": "Phòng được thiết kế theo phong cách hiện đại, phòng rộng rãi, thoáng mát, đầy đủ tiện nghi,phù hợp cho hộ gia đình 3-4 người",
+      "name": "MacBook Air 13 2020 M1 560GBaaa1",
+      "id": 1
+    },
+    {
+      "price": 1599999,
+      "des": "Phòng được thiết kế theo phong cách hiện đại, phòng rộng rãi, thoáng mát, đầy đủ tiện nghi,phù hợp cho hộ gia đình 3-4 người",
+      "name": "MacBook Air 13 2020 M1 560GBaaa1",
+      "id": 1
+    },
+    {
+      "price": 1200000,
+      "des": "Phòng được thiết kế theo phong cách hiện đại, phòng rộng rãi, thoáng mát, đầy đủ tiện nghi,phù hợp cho hộ gia đình 3-4 người",
+      "name": "thandinh",
+      "id": 2
+    },
+    {
+      "des": "123312",
+      "price": 110000000,
+      "name": "MacBook Air 13 2020 M1 560GBaaa1",
+      "id": 3
+    },
+    {
+      "des": "123312",
+      "price": 110000000,
+      "name": "MacBook Air 13 2020 M1 560GBaaa121",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "MacBook Air 13 2020 M1 560GB",
+      "email": "thandvph26474@fpt.edu.vn",
+      "password": "than123",
+      "resPassword": "than123",
+      "id": 1
+    },
+    {
+      "name": "Nguyễn Quang Huy2",
+      "email": "huynqph22995@fpt.edu.vn",
+      "password": "12345",
+      "resPassword": "12345",
+      "id": 2
+    },
+    {
+      "name": "huy",
+      "email": "huynqph22995@fpt.edu.vn",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "huy1",
+      "email": "huynqph22996@fpt.edu.vn",
+      "password": "123456",
+      "id": 4
+    }
+  ]
+}
